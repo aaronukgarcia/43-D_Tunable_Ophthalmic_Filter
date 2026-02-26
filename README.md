@@ -27,6 +27,7 @@ A liquid crystal photonic crystal tuneable notch filter with ambient light sensi
 ## Document
 
 :page_facing_up: **[43-D_Tunable_Ophthalmic_Filter_Formatted.docx](43-D_Tunable_Ophthalmic_Filter_Formatted.docx)** — Full collaboration whitepaper
+:bookmark_tabs: **[43-D_Tunable_Ophthalmic_Filter_Formatted.pdf](43-D_Tunable_Ophthalmic_Filter_Formatted.pdf)** — PDF export
 
 ## Author
 
